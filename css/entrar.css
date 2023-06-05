@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+nav {
+    display: flex;
+    justify-content:space-evenly;
+}
+
+#logo {
+    width: 150px;
+    padding-top: 10px;
+    margin-right: 800px;
+}
+
+#setas {
+    margin-left: 60px;
+}
+
+#textnav {
+    color: gray;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    font-size: bolder;
+}
+
+#entrar {
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 5px;
+}

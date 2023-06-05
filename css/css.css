@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+}
+
+#logo {
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
